@@ -1,6 +1,6 @@
 # PandaTube app in React.js
 
-The purpose of this exercise is to create **React** app to pull data from YouTube API and dynamically preview videos depending on keyword entry. There is 300ms delay applied to enable throttling (debounce method from **lodash**)
+The purpose of this exercise is to create **React** app to pull data from **YouTube API** and dynamically preview videos depending on keyword entry. There is 300ms delay applied to enable throttling (debounce method from **lodash**)
 
 ##Key learnings
 
