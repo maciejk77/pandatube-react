@@ -4,11 +4,11 @@ The purpose of this exercise is to create **React** app to pull data from **YouT
 
 ##Instruction
 
-Clone project ``git clone https://github.com/maciejk77/pandatube-react.git``
-Change to folder ``cd pandatube-react``
-Install dependancies ``npm install``
-Run in command line ``npm start``
-Access the app at ``localhost:8080``
+- Clone project ``git clone https://github.com/maciejk77/pandatube-react.git``
+- Change to folder ``cd pandatube-react``
+- Install dependancies ``npm install``
+- Run in command line ``npm start``
+- Access the app at ``localhost:8080``
 
 ##Key learnings
 
