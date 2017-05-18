@@ -2,7 +2,7 @@
 
 The purpose of this exercise is to create **React** app to pull data from **YouTube API** and dynamically preview videos depending on keyword entry. There is 300ms delay applied to enable throttling (debounce method from **lodash**)
 
-##Instruction
+## Instruction
 
 - Clone project ``git clone https://github.com/maciejk77/pandatube-react.git``
 - Change to folder ``cd pandatube-react``
@@ -10,7 +10,7 @@ The purpose of this exercise is to create **React** app to pull data from **YouT
 - Run in command line ``npm start``
 - Access the app at ``localhost:8080``
 
-##Key learnings
+## Key learnings
 
 - JSX, component, state, setting state
 - Class vs Functional based component
@@ -19,7 +19,7 @@ The purpose of this exercise is to create **React** app to pull data from **YouT
 - ES6 syntax: arrow function, classes, template strings
 - Lodash debounce methods, throttling
 
-####Preview
+#### Preview
 
 ![panda-tube screenshot](https://github.com/maciejk77/pandatube-react/blob/master/img/screenshot.png?raw=true)
 
